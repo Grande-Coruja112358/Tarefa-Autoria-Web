@@ -14,3 +14,8 @@ p {
   background-color:rgb(119, 119, 119);
   text-size-adjust: 20px;
 }
+
+img src {
+  width: 150px;
+  lenght: 150px;
+}
