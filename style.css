@@ -1,5 +1,9 @@
 header {
-text-size-adjust: 30px;
-text-align: center;
-font-size: 30px;
+  text-size-adjust: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+h2 {
+  color: red;
+  background-color:rgb(162, 224, 162);
 }
