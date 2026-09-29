@@ -29,4 +29,21 @@ aside {
   padding: 20px;
   margin: 10px;
 }
-# Colocar main um ao lado do outro (2)
+main {
+  left: 0;
+  width: 50%;
+  height: 40%
+  background-color:rgb(110,110,110);
+  color: green;
+  padding: 10%;
+  margin: 10%;
+}
+section {
+  right: 0;
+  width: 50%;
+  height: 40%
+  background-color:rgb(180,180,180);
+  color: yellow;
+  padding: 10%;
+  margin: 10%;
+}
